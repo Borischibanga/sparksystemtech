@@ -47,7 +47,7 @@
 
       <div class="profile">
         <img src="assets/img/profile1.jpeg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.php">sparksystemtech</a></h1>
+        <h1 class="text-light"><a href="index.html">sparksystemtech</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -59,7 +59,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="index.html" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
@@ -68,14 +68,14 @@
 
   <main id="main">
 
-    <!-- ======= Breadcrumbs ======= -->
-    <section id="breadcrumbs" class="breadcrumbs">
+    <!-- ======= Prices ======= -->
+    <section id="charges" class="breadcrumbs">
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
           <h2>Our Prices</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li>Charge Details</li>
           </ol>
         </div>
@@ -89,7 +89,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-8">
+          <div class="col-lg-5">
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
@@ -196,21 +196,21 @@
                                                         <td>Depends</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Song Editing</td>
-                                                            <td>Any</td>
-                                                            <td>Depends</td>
-                                                            <td>Depends</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>CONSULTATION</td>
-                                                                <td>Any</td>
-                                                                <td>Depends</td>
-                                                                <td>Depends</td>
-                                                                </tr>
-            </tbody>
-            </table>
-            </div>
-            </div>
+                        <td>Song Editing</td>
+                        <td>Any</td>
+                        <td>Depends</td>
+                        <td>Depends</td>
+                      </tr>
+                      <tr>
+                        <td>CONSULTATION</td>
+                        <td>Any</td>
+                        <td>Depends</td>
+                        <td>Depends</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
             </section><!-- End Portfolio Details Section -->
             </main><!-- End #main -->
             

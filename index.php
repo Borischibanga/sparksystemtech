@@ -47,7 +47,7 @@
 
       <div class="profile">
         <img src="assets/img/profile1.jpeg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.php">SparkSystemTech</a></h1>
+        <h1 class="text-light"><a href="index.html">SparkSystemTech</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -65,9 +65,8 @@
           <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
           <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
-          <li><a href="charges.php" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Prices</span></a></li>
-          <li><a href="availableprojects.php" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Projects</span></a></li>
-         
+          <li><a href="#prices" class="nav-link scrollto"><i class="bx bx-money"></i> <span>Prices</span></a></li>
+          <li><a href="availableprojects.html" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Projects</span></a></li>
         </ul>
         </ul>
       </nav><!-- .nav-menu -->
@@ -87,48 +86,44 @@
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
-      <div class="container">
+  <div class="container">
+    <div class="section-title">
+      <h2>About</h2>
+      <p>We are the newly opened startup company aiming to bring innovations to the growth of the world's technology.</p>
+    </div>
 
-        <div class="section-title">
-          <h2>About</h2>
-          <p>We are the newly opened start up company aiming to bring innovations to the growth of the world's Technology.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/profile1.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>We are the best Technology &amp; Marketing Company.</h3>
-            <p class="fst-italic">
-              With Our Team we aim to Provide the best and quality tech services to our customers.
-            </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>01/03/2024</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>sparksystemtech.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+260772042339</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Chinsali, Zambia</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>1month</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>We are masters to give services</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>sparksystemtech@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                </ul>
-              </div>
-            </div>
-            <p>
-              We are the Company known for the better prodctivity.
-            </p>
-          </div>
-        </div>
-
+    <div class="row">
+      <div class="col-lg-4" data-aos="fade-right">
+        <img src="assets/img/profile1.jpeg" class="img-fluid" alt="">
       </div>
-    </section><!-- End About Section -->
+      <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+        <h3>We are the best Technology & Marketing Company.</h3>
+        <p class="fst-italic">
+          With Our Team, we aim to provide the best and quality tech services to our customers.
+        </p>
+        <div class="row">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>01/03/2024</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>sparksystemtech.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+260772042339</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Chinsali, Zambia</span></li>
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>1 month</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>We are masters to give services</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>sparksystemtech@gmail.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+            </ul>
+          </div>
+        </div>
+        <p>We are the company known for better productivity.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
     <!-- ======= Facts Section ======= -->
     <section id="facts" class="facts">
@@ -337,7 +332,7 @@
               <img src="assets/img/student.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/stock.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -347,7 +342,7 @@
               <img src="assets/img/farm.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/student.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -357,7 +352,7 @@
               <img src="assets/img/farm.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -367,7 +362,7 @@
               <img src="assets/img/security1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/security2.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -377,7 +372,7 @@
               <img src="assets/img/design3.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -387,7 +382,7 @@
               <img src="assets/img/stock.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -397,7 +392,7 @@
               <img src="assets/img/design2.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -407,7 +402,7 @@
               <img src="assets/img/security2.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -417,7 +412,7 @@
               <img src="assets/img/design1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -426,15 +421,12 @@
 
       </div>
     </section><!-- End Portfolio Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
-
         <div class="section-title">
           <h2>Services</h2>
         </div>
-
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
@@ -531,20 +523,6 @@
                 <h4>Company Secretary</h4>
               </div>
             </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Digital Marketer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
             <div class="swiper-slide">
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
                 <p>
@@ -552,7 +530,7 @@
                   Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/usher.jpg" class="testimonial-img" alt="">
                 <h3>Usher Chimbiya</h3>
                 <h4>COO &amp; Founder</h4>
               </div>
@@ -564,7 +542,129 @@
 
       </div>
     </section><!-- End Testimonials Section -->
-
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="prices" class="portfolio-details">
+      <div class="container">
+        <div class="row gy-4">
+           <br> <div class="col-lg-5 p-1">
+            <div class="portfolio-info">
+            <h3>OUR PRICES</h3>
+            <table border="2" margin="1" padding="4">
+            <thead>
+            <tr>
+            <th>Category</th>
+            <th>Sizes</th>
+            <th>Renting</th>
+            <th>Buying</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>Web</td>
+            <td>Personal</td>
+            <td>K500</td>
+            <td>k800</td>
+            </tr>
+            <tr>
+                <td>Web</td>
+                <td>Business</td>
+                <td>K5000</td>
+                <td>k8000</td>
+                </tr>
+                <tr>
+                    <td>Web</td>
+                    <td>Company</td>
+                    <td>K10000</td>
+                    <td>k15000</td>
+                    </tr>
+                    <tr>
+                        <td>Desktop</td>
+                        <td>Business</td>
+                        <td>K7000</td>
+                        <td>k10000</td>
+                        </tr>
+                        <tr>
+                            <td>Desktop</td>
+                            <td>Company</td>
+                            <td>K10000</td>
+                            <td>k15000</td>
+                            </tr>
+                            <tr>
+                                <td>Security</td>
+                                <td>Business</td>
+                                <td>Depends</td>
+                                <td>Depends</td>
+                                </tr>
+                                <tr>
+                                    <td>Security</td>
+                                    <td>Company</td>
+                                    <td>Depends</td>
+                                    <td>Depends</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Marketing</td>
+                                        <td>Business</td>
+                                        <td>Depends</td>
+                                        <td>Depends</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Marketing</td>
+                                            <td>Company</td>
+                                            <td>Depends</td>
+                                            <td>Depends</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Designing</td>
+                                                <td>Business</td>
+                                                <td>Depends</td>
+                                                <td>Depends</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Designing</td>
+                                                    <td>Company</td>
+                                                    <td>Depends</td>
+                                                    <td>Depends</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Video Editing</td>
+                                                        <td>Any</td>
+                                                        <td>Depends</td>
+                                                        <td>Depends</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Song Editing</td>
+                                                            <td>Any</td>
+                                                            <td>Depends</td>
+                                                            <td>Depends</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>CONSULTATION</td>
+                                                                <td>Any</td>
+                                                                <td>Depends</td>
+                                                                <td>Depends</td>
+                                                                </tr>
+            </tbody>
+            </table>
+        </div>
+      </div>
+      <div class="col-lg-7">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+                <div class="swiper-slide">
+                  <img src="assets/img/student.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/design1.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/security1.jpeg" alt="">
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            </div>
+            </div>
+    </section><!-- End Portfolio Details Section -->
+    
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
@@ -643,14 +743,14 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>BA SparkSystemTech</span></strong>
+        &copy; Copyright <strong><span>SparkSystemTech</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BA SparkSystem<i>Tech</i></a>
+        Designed by <a href="https://bootstrapmade.com/">SparkSystem<i>Tech</i></a>
       </div>
     </div>
   </footer><!-- End  Footer -->
